@@ -1,0 +1,43 @@
+div {
+    text-align: center;
+    border-radius: 20px;
+}
+
+img {
+    border-radius: 5px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.lefter {
+    background-color: antiquewhite;
+    width: 60%;
+    margin: 20px;
+    padding: 20px;
+}
+
+.righter {
+    background-color: antiquewhite;
+    width: 30%;
+    margin: 20px;
+    padding: 20px;
+}
+
+.content {
+    background-color: antiquewhite;
+    padding: 50px;
+    margin: 20px;
+}
+
+input {
+    margin: 15px;
+    border-radius: 5px;
+    border-style: double;
+}
+
+button {
+    margin-bottom: 15px;
+}
